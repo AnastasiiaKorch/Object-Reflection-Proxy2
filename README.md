@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/w3akx1o5ko2vkwxx?svg=true)](https://ci.appveyor.com/project/AnastasiiaKorch/object-reflection-proxy2)
